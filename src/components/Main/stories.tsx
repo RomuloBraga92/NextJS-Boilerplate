@@ -4,15 +4,15 @@ import Main from '.'
 export default {
   title: 'Main',
   component: Main,
-  decorators: [withKnobs]
+  decorators: [withKnobs],
 }
 
 export const Basic = () => (
   <Main
-    title={text('Title', 'React Avançado')}
+    title={text('Title', 'Next.JS Boilerplate')}
     description={text(
       'Description',
-      'TypeScript, ReactJS, NextJS e Styled Components'
+      'A boilerplate for your Next.JS application!',
     )}
   />
 )
