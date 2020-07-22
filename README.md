@@ -27,7 +27,10 @@ First create a new project, using this boilerplate:
 
 Give to your project a name!
 
-Enter your new project folder.
+Go to your new project folder.
+```bash
+    $ cd yourProjectName
+```
 
 Run the development server:
 
