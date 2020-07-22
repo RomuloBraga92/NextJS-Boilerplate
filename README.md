@@ -20,7 +20,16 @@ This project uses:
 
 ## Getting Started
 
-First, run the development server:
+First create a new project, using this boilerplate:
+```bash
+    $ yarn create next-app -e https://github.com/RomuloBraga92/NextJS-Boilerplate
+```
+
+Give to your project a name!
+
+Enter your new project folder.
+
+Run the development server:
 
 ```bash
 npm run dev
