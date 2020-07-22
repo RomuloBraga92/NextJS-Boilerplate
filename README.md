@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://ik.imagekit.io/rmpz8b4ytr/nextjslogo_SVtjxwJad.jpg"/>
+</p>
+
 This is a [Next.js](https://nextjs.org/) boilerplate with some pre-configurations setted.
 
 ## What pre-configurations?
