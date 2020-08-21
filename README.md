@@ -1,10 +1,12 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+<p align="center">
+<img src="https://ik.imagekit.io/rmpz8b4ytr/nextjslogo_SVtjxwJad.jpg"/>
+</p>
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
+This is a [Next.js](https://nextjs.org/) boilerplate with some pre-configurations setted.
 
-## What is inside?
+## What pre-configurations?
 
-This project uses lot of stuff as:
+This project uses:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
@@ -18,7 +20,19 @@ This project uses lot of stuff as:
 
 ## Getting Started
 
-First, run the development server:
+First create a new project, using this boilerplate:
+```bash
+    $ yarn create next-app -e https://github.com/RomuloBraga92/NextJS-Boilerplate
+```
+
+Give to your project a name!
+
+Go to your new project folder.
+```bash
+    $ cd yourProjectName
+```
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -53,5 +67,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
