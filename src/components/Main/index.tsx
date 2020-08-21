@@ -10,7 +10,7 @@ const Main = ({
 
     <S.Illustration
       src="/img/Development-pana.svg"
-      alt="Um d esenvolvedor de frente para uma tela com código."
+      alt="Um desenvolvedor de frente para uma tela com código."
     />
   </S.Wrapper>
 )
