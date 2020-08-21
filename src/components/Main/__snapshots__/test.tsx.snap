@@ -61,4 +61,4 @@ exports[`<Main /> should render the heading 1`] = `
     src="/img/Development-pana.svg"
   />
 </main>
-`
+`;
