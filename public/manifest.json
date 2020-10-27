@@ -3,13 +3,13 @@
   "short_name": "React Avançado",
   "icons": [
     {
-      "src": "/img/icon-192.png",
-      "type": "image/png",
+      "src": "/img/Development-pana.svg",
+      "type": "image/svg",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon-512.png",
-      "type": "image/png",
+      "src": "/img/Development-pana.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ],
